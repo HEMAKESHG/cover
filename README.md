@@ -59,7 +59,7 @@ Publish the website in the LocalHost.
                 display: inline;
                 position: relative;
                 color: rgb(245, 253, 9);
-                top: 190px;
+                top: 260px;
 
                 font-family: Georgia;
                 font-size: medium;
@@ -76,13 +76,13 @@ Publish the website in the LocalHost.
             .id{
                 width: 400px;
                 position: relative;
-                top: 180px;
+                top: 270px;
 
             }
             .pub{
                 font-size: medium;
                 position: relative;
-                top: 155px;
+                top: 230px;
                 left: 330px;
             }
             .ed{
@@ -90,7 +90,7 @@ Publish the website in the LocalHost.
                 font-size: medium;
                 font-family: Verdana;
                 position: relative;
-                top: 85px;
+                top: 180px;
 
             }
             .subtitle{
@@ -101,7 +101,7 @@ Publish the website in the LocalHost.
             }
             .mypic{
                 position: relative;
-                top: 135px;
+                top: 230px;
                 left: 260px;
                 width: 100px;
                 height: 100px;
@@ -123,7 +123,7 @@ Publish the website in the LocalHost.
                 <h1>Full stack development</h1>
             </div>
             <div class="subtitle">
-                with Django and Bootstrap Insights
+                Learning Path
             </div>
             <div class="mypic">
                 <img src="Photo.jpg" width="130" height="145" alt="">
@@ -138,19 +138,18 @@ Publish the website in the LocalHost.
                 SEC
             </div>
             <div class="ed">
-                <b>Extended Edition</b>
+                <b>Full Edition</b>
             </div>
         </div>
 
     </body>
 </html>
 
-
 ```
 
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-11-29 173354.png>)
+![Alt text](pic.png)
 
 
 ## RESULT:
